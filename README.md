@@ -1,5 +1,7 @@
 # 勉强能用的屏幕像素放大镜 / Barely a Pixel Magnifier
 
+<img width="3508" height="2480" alt="新建画布2" src="https://github.com/user-attachments/assets/fb3c2a62-f80d-41d3-8f3b-9e5758538892" />
+
 > A barely working screen magnifier, coordinate reader & color picker. No idea what it is, but it works.
 > 这大概是一个放大镜兼屏幕坐标兼屏幕取色的意义不明的东西（?）
 
@@ -8,6 +10,7 @@
 
 **我是个中国人，下面的英文是靠翻译软件翻的，所以可能不太准确（我的英语不好 〒▽〒 ）**
 **I am Chinese, the English below is translated by translation software, so it might not be very accurate (my English is not good).**
+
 
 我是个学生，这是我刚学编程没多久自己写的一个小作品，代码里面大多数功能都是上网查资料拼凑出来的
 I am a student, this is a small project I wrote shortly after I started learning programming, most of the features in the code are pieced together from looking up things online.
